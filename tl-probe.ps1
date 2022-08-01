@@ -18,7 +18,7 @@
   Purpose/Change: Initial script development
   
 .EXAMPLE
-  .\tl-footholdfinder.ps1
+  .\tl-probe.ps1
 #>
 <#End Header#>
 
